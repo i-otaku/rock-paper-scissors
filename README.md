@@ -1,2 +1,2 @@
 # first
-This is my first repository
+This is a rock paper scissors game made using python.
